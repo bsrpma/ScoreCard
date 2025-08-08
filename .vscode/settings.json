@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 11,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false,
+  "[vb]": {
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true
+  }
+}

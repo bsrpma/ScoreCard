@@ -1,0 +1,1 @@
+pyinstaller --onedir --name=scorecard _main.py

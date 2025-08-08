@@ -1,0 +1,19 @@
+[DEFAULT]
+project_name = ScoreCard
+version = 0.0.1
+
+[KSNI]
+dbase = R09 DBASE GT PRIANGAN TIMUR.parquet
+location = R:\PMA_2\dbase_gab\_hasil\25.08.R09
+
+[MEIJI]
+dbase = R09 DBASE MEIJI PRIANGAN TIMUR.parquet
+location = R:\PMA_2\dbase_gab\_hasil\25.08.R09
+
+[SIMBA]
+dbase = R09 DBASE SIMBA PRIANGAN TIMUR.parquet
+location = R:\PMA_2\dbase_gab\_hasil\25.08.R09
+
+[CB]
+cb = R09 MASTER CB GABUNGAN PRIANGAN TIMUR.parquet
+location = R:\PMA_2\dbase_gab\_hasil\25.08.R09
